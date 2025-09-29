@@ -13,8 +13,6 @@ https://dreyyycom.github.io/Hornilla-Portfolio/
 Desktop and Cellphone
 andreihornilla05@gmail.com
 What UI/UX principles did you apply and why?
-I kept the design simple, consistent, and responsive so it looks clean, easy to use, and works well on different devices.
 What challenges did you face and how you solved them?
-I had trouble with the layout and choosing the right colors at first, but I solved it by organizing the sections better and sticking to a clear color scheme.
 How would you improve the portfolio next?
-I’d add more projects, some interactive features, and improve accessibility to make it more engaging and user-friendly.
+When I created my portfolio, I applied simple and consistent UI/UX principles to make it clean, easy to use, and responsive. I focused on simplicity so the design wouldn’t look cluttered, and I kept the fonts, colors, and spacing consistent to give it a professional look. I also made sure it worked well on both desktop and mobile devices, since visitors might use different screens. Lastly, I arranged the sections in a user-centered way by putting the About Me, Skills, and Contact parts where they are easy to find.During the process, I faced some challenges. One was fixing the layout, since it looked fine on desktop but messy on smaller screens. I solved this by using responsive design techniques like flexbox and grid. Another challenge was choosing the right colors and fonts because my first designs didn’t look balanced. I improved this by sticking to neutral tones with one accent color. Navigation was also tricky at first, so I added a clear navigation bar to guide visitors better.For future improvements, I’d like to add more projects, interactive features like hover effects, and better accessibility. I also want to include a functional contact form to make the portfolio more professional and user-friendly.
